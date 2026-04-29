@@ -34,7 +34,7 @@ In Zed:
 1. Run `zed: install dev extension`
 2. Select this repository folder
 3. Run `zed: reload extensions` after changes
-4. Confirm both `Purple Dark` and `Purple Light` work correctly
+4. Confirm `Purple Dark` works correctly
 
 ## 4. Submit to `zed-industries/extensions`
 
