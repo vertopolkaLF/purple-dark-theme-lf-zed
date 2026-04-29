@@ -1,49 +1,51 @@
-# Purple LF
+# Purple Dark Theme
 
-This repository is a publish-ready Zed theme extension containing:
+An elegant theme for Zed with an emphasis on purple shades. Available in two variants: dark and light.
 
-- `Purple Dark LF`
-- `Purple Light LF`
+![Dark Theme Screenshot 1](./screenshots/dark-1.png)
 
-These themes were converted from the VS Code extension `vertopolkalf.purple-dark-theme-lf`.
+## Features
 
-## Local testing
+- Carefully selected color palette
+- Two variants of the theme: dark and light
+- Support for semantic syntax highlighting
+- Optimized for long coding sessions
+- Support for popular programming languages
+
+## Installation
+
+### Local dev install
 
 1. Open Zed.
 2. Run `zed: install dev extension`.
 3. Select this folder:
 
-   `C:\Users\leo20\Documents\Codex\2026-04-29\https-marketplace-visualstudio-com-items-itemname\purple-lf-theme`
+   `C:\Dev\purple-dark-theme-lf`
 
-4. Run `theme selector: toggle` and choose `Purple Dark LF` or `Purple Light LF`.
+4. Run `theme selector: toggle` and choose:
+   - `Purple Dark`
+   - `Purple Light`
 
-## Repository layout
+### Publishing
 
-- `extension.toml`: Zed extension manifest
-- `themes/purple-lf-theme.json`: bundled theme family
-- `LICENSE`: accepted license file for Zed extension publishing
-- `PUBLISHING.md`: exact publish checklist for Zed's registry flow
+See [PUBLISHING.md](./PUBLISHING.md) for the marketplace submission steps.
 
-## Before publishing
+## Screenshots
 
-Update these fields in `extension.toml`:
+### Dark Theme
 
-- `authors`
-- `repository`
+![Dark Theme Screenshot 1](./screenshots/dark-1.png)
+![Dark Theme Screenshot 2](./screenshots/dark-2.png)
+![Dark Theme Screenshot 3](./screenshots/dark-3.png)
 
-Then create a GitHub repo and push this folder as its contents.
+### Light Theme
 
-## Publishing
+![Light Theme Screenshot 1](./screenshots/duckmyeyes-1.png)
 
-See [PUBLISHING.md](./PUBLISHING.md) for the exact steps to submit this extension to Zed's registry.
+## Feedback
 
-## Notes
+If you have suggestions for improvement or have found a bug, please create an issue in the repository.
 
-- Zed uses syntax captures rather than VS Code TextMate scopes, so syntax highlighting is a best-effort translation.
-- The original VS Code theme lists the MIT license.
-- Attribution details are in `ATTRIBUTION.md`.
+## License
 
-## Sources
-
-- Original VS Code theme: <https://marketplace.visualstudio.com/items?itemName=vertopolkalf.purple-dark-theme-lf>
-- Zed extension docs: <https://zed.dev/docs/extensions/developing-extensions>
+MIT

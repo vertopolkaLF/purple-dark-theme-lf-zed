@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Purple Theme LF",
-  "author": "Converted from VScode theme",
+  "name": "Purple Dark Theme",
+  "author": "vertopolkalf",
   "themes": [
     {
-      "name": "Purple Dark LF",
+      "name": "Purple Dark",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -280,7 +280,7 @@
       }
     },
     {
-      "name": "Purple Light LF",
+      "name": "Purple Light",
       "appearance": "light",
       "style": {
         "accents": [
