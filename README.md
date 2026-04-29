@@ -17,15 +17,8 @@ An elegant dark theme for Zed with an emphasis on purple shades.
 
 1. Open Zed.
 2. Run `zed: install dev extension`.
-3. Select this folder:
-
-   `C:\Dev\purple-dark-theme-lf`
-
+3. Select the folder
 4. Run `theme selector: toggle` and choose `Purple Dark`
-
-### Publishing
-
-See [PUBLISHING.md](./PUBLISHING.md) for the marketplace submission steps.
 
 ## Feedback
 
