@@ -1,0 +1,8 @@
+id = "purple-dark-theme-lf"
+name = "Purple Dark Theme - LF"
+version = "0.1.0"
+schema_version = 1
+# Replace these with your publishing identity before opening a PR.
+authors = ["vertopolkaLF <vertopolkalf@gmail.com>"]
+description = "Kinda good Purple Dark Theme with orange accents"
+repository = "https://github.com/vertopolkaLF/purple-dark-theme-lf"
